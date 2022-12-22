@@ -21,7 +21,7 @@ import java.util.stream.Collectors;
 @Mod(PWCoreForge.MOD_ID)
 public class PWCoreForge
 {
-    // Directly reference a slf4j logger
+    // Directly reference a slf4j loggerdd
     private static final Logger LOGGER = LogUtils.getLogger();
     public static final String MOD_ID = "pwcoreforge";
 
